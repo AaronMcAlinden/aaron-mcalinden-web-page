@@ -1,0 +1,32 @@
+
+@media screen and (min-width: 660px)  {
+  
+  h1  {font-size: 5.063em;}
+  
+  h2  {font-size: 3.375em;}
+  
+  h3  {font-size: 1.5em;}
+  
+  nav {
+  background:none;
+  width: 100%;
+  padding: .5em 0em .5em 0em;
+  margin: 0;
+  position:absolute;
+  top: 0;
+}
+
+nav ul li {
+  display:inline-block;
+  margin: 0 20px;
+  float: left;
+  font-size: 1em;
+}
+
+nav a {
+  color:#D7F5A6;
+}
+ 
+
+  
+}
